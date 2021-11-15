@@ -1,8 +1,8 @@
-# Test Example 
+# README Sample 
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description:
-  * Here is an example of a description for a project. 
+  * This is a description.
   
   ## Table of Contents:
   
@@ -14,12 +14,11 @@
   
   ## Installation:
   
-  * How to install said project step 1. step 2. step 3.
+  * Step 1. Step 2. Step 3. etc..
   
   ## Usage:
   
-  * Use this to generate a README file automatically for a project.
-  * Screenshot
+  * This is used to auto create a READme file for any project.
   
   ## Credits:
   
@@ -32,14 +31,14 @@
   
   ## How to Contribute to the project:
 
-  * Here is how you can contribute to said project.
+  * Here is how to contribute to the project
 
   ## Tests:
 
-  * You can test the application by opening the cmd prompt and entering "node index", then press return
+  * Open the cmd prompt and enter "node index" and press return.
 
   ## Questions:
 
   * [My GitHub](https://github.com/taylorkeltgen)
-  * Reach out to me via email for more questions at (taylorkeltgen@gmail.com)
+  * Reach out to me via email for more questions at (taylor@utexas.edu)
 
