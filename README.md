@@ -26,7 +26,7 @@
 
 ## Video:
 
-![video](https://watch.screencastify.com/v/XFA1KlsdLXGZNQHTh1LF)
+[video showcase](https://watch.screencastify.com/v/XFA1KlsdLXGZNQHTh1LF)
 
 ## Contributions:
 
