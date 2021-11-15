@@ -1,8 +1,8 @@
-# README Sample 
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+# Test Project Title 
+  ![badge](https://img.shields.io/badge/license-Apache-blue)
 
   ## Description:
-  * This is a description.
+  * This is a description of the project.
   
   ## Table of Contents:
   
@@ -14,11 +14,11 @@
   
   ## Installation:
   
-  * Step 1. Step 2. Step 3. etc..
+  * How to install the application..
   
   ## Usage:
   
-  * This is used to auto create a READme file for any project.
+  * This is used to generate a README file automatically.
   
   ## Credits:
   
@@ -26,19 +26,19 @@
   
   ## License:
   
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
-  * [MIT Licensing Info](https://choosealicense.com/licenses/mit/)
+  ![badge](https://img.shields.io/badge/license-Apache-blue)
+  * [Apache Licensing Info](https://choosealicense.com/licenses/apache-2.0/)
   
   ## How to Contribute to the project:
 
-  * Here is how to contribute to the project
+  * How to contribute to said project.
 
   ## Tests:
 
-  * Open the cmd prompt and enter "node index" and press return.
+  * Test the app by using the cmd prompt to type "node index" and pressing enter.
 
   ## Questions:
 
   * [My GitHub](https://github.com/taylorkeltgen)
-  * Reach out to me via email for more questions at (taylor@utexas.edu)
+  * Reach out to me via email for more questions at (taylor@gmail.com)
 
