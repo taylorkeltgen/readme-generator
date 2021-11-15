@@ -1,18 +1,8 @@
-# READMEEEEEEEEE function renderLicenseBadge(license) {
-  switch (license) {
-    case "Apache":
-      return "https://img.shields.io/badge/license-Apache-blue";
-    case "GNU":
-      return "https://img.shields.io/badge/license-GNU-blue";
-    case "MIT":
-      return "https://img.shields.io/badge/license-MIT-blue";
-    case undefined:
-      return "";
-  }
-}
+# Test Example 
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description:
-  * adlkhfiasudhflkahsfkhasdf
+  * Here is an example of a description for a project. 
   
   ## Table of Contents:
   
@@ -24,32 +14,32 @@
   
   ## Installation:
   
-  * 123456879123456789
+  * How to install said project step 1. step 2. step 3.
   
   ## Usage:
   
-  * sdfiuheweuhuwefiu
+  * Use this to generate a README file automatically for a project.
   * Screenshot
   
   ## Credits:
   
-  * Made by: Taylor
+  * Made by: Taylor Keltgen
   
   ## License:
   
-  ![badge](https://img.shields.io/badge/license-GNU-blue)
-  * [GNU Info](https://choosealicense.com/licenses/gpl-3.0/)
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  * [MIT Licensing Info](https://choosealicense.com/licenses/mit/)
   
   ## How to Contribute to the project:
 
-  * sidfjisjfisjdfijsdjfj
+  * Here is how you can contribute to said project.
 
   ## Tests:
 
-  * xcvbxcvbvcxbxvb
+  * You can test the application by opening the cmd prompt and entering "node index", then press return
 
   ## Questions:
 
   * [My GitHub](https://github.com/taylorkeltgen)
-  * Reach out to me via email for more questions at _(taylor@utexas.edu)_
+  * Reach out to me via email for more questions at (taylorkeltgen@gmail.com)
 
