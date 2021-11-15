@@ -24,13 +24,9 @@
 - WHEN I click on the links in the Table of Contents
 - THEN I am taken to the corresponding section of the README
 
-## Website:
+## Video:
 
--
-
-## Screenshot:
-
-![screenshot](assets/images/screenshot.png)
+![video](https://watch.screencastify.com/v/XFA1KlsdLXGZNQHTh1LF)
 
 ## Contributions:
 
